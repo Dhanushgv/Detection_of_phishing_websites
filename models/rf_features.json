@@ -1,0 +1,1 @@
+{"feature_order": ["url_length", "num_digits", "num_letters", "num_special", "num_dots", "num_hyphens", "num_slashes", "num_question", "num_equal", "num_at", "uses_https", "has_ip", "subdomain_count", "tld_length", "path_length", "query_length", "entropy", "pct_digits", "pct_special", "suspicious_words"]}
